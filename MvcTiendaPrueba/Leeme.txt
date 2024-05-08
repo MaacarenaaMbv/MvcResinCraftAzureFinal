@@ -1,0 +1,7 @@
+﻿Usuario Admin
+
+- Correo:
+admin@gmail.com
+
+- Contraseña
+12345
